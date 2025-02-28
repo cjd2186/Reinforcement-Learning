@@ -1,4 +1,4 @@
-# 4701 HW3: Reinforcement Learning
+Reinforcement Learning
 
 Create and activate a virtual environment for the project (at the project root directory):
 
